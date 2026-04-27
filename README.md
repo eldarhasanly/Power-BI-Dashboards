@@ -40,7 +40,23 @@ Explore the dashboards below. Each project includes its own dedicated README tha
 
 [**View Full Project 2 Details (README)**](/Data%20Jobs%20Dashboard%20v2/README.md)
 
----
+## HR Data Analytics
+
+![HR Data Analytics](/Atlas%20Labs%20HR%20Data%20Analytics/img/Overview.png)
+
+**Key Power BI Skills Utilized:**
+
+- Advanced Dashboard Design (Single-Page UX & Optimization)
+- Complex Power Query Transformations
+- Star Schema Data Modeling Principles
+- Explicit DAX Measures (e.g., `CALCULATE`, context modifiers)
+- Dynamic Visualizations (driven by Parameters/Slicers)
+- Field & Numeric Parameter Implementation for "What-If" Analysis
+- Optimized Slicers & Advanced Cross-Filtering Techniques
+- Analytical Storytelling
+- Report Performance Considerations
+
+[**View Full Project 3 Details (README)**](/Atlas%20Labs%20HR%20Data%20Analytics/README.md)
 
 ## About This Portfolio
 
